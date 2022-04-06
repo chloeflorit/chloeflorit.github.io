@@ -3,14 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hello I am Puppycat, PhD. I am a Python master.
+Hello I am Chloe, student. I like to travel. 
 
 ## More information
 
-My favorite food is spinach. I like to SCREAM when I don't get my way but that's okay because I'm cute.
+My favorite food is spaghetti. I like to rest in peace. 
+A few of my favorite things to do are
 
-![](/images/puppycat.jpg){:height="300px"}
+![](/images/travel.jpg){:height="300px"}
+![](/images/camping.jpg){:height="300px"}
+![](/images/sew.jpg){:height="300px"}
+
 
 ### Contact me
 
-[puppycat@puppycat.org](mailto:puppycat@puppycat.org)
+[cflorit20@g.ucla.edu](mailto:cflorit20@g.ucla.edu)
