@@ -1,6 +1,6 @@
 ---
   layout: post
-title: HW 0
+title: HW 1
 ---
   
   In this blog post, I'll show you how to create several interesting, interactive data graphics using the NOAA climate data.
